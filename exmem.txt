@@ -1,0 +1,23 @@
+Membership No  Date Joined  Active  
+Membership No  Date Joined  Active  
+    20289      2016-10-8    no    
+    89111      2020-5-11    no    
+    20203      2015-1-6     no    
+    32858      2018-11-21   no    
+    85030      2015-8-18    no    
+    46131      2017-1-22    no    
+    51713      2020-5-22    no    
+    80775      2016-6-10    no    
+Membership No  Date Joined  Active  
+Membership No  Date Joined  Active  
+    72573      2019-11-19   no    
+    55163      2019-8-9     no    
+    68723      2020-10-10   no    
+    45499      2016-6-6     no    
+    45996      2019-1-22    no    
+    97747      2017-6-18    no    
+    40541      2016-8-1     no    
+    51884      2016-2-22    no    
+    74075      2015-3-2     no    
+    41664      2017-9-1     no    
+    62071      2019-8-9     no    
